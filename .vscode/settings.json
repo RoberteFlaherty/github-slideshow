@@ -1,0 +1,10 @@
+{
+  "github.copilot.chat.models": {
+    "claude-3.5-sonnet": {
+      "enabled": true
+    }
+  },
+  "github.copilot.advanced": {
+    "anthropicEnabled": true
+  }
+}
